@@ -1,0 +1,3 @@
+[submodule "themes/hugo-winston-nick"]
+	path = themes/hugo-winston-nick
+	url = https://github.com/nickbozentko/hugo-winston-theme-nick.git

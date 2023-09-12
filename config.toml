@@ -1,0 +1,58 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "hugo-winston-nick"
+themesDir = "themes"
+title = "Nick's Blog"
+paginate = 5
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+[params]
+  google_analytics_id = "G-WGJPGFP0WL"
+  twitter_handle = "@nickbozdev"
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = false
+  showIntroContentOnHomepage = true
+  showPostsOnHomepage = true
+  usePaginationOnHomepage = true
+  limitPostsOnHomepage = 1000 # only used if usePaginationOnHomepage is false
+  sortPostsByDateOldestFirst = false
+  addDot = true
+  addFrame = true
+  highlightColor = "#0284c7"
+  baseColor = "#18181b"
+  baseOffsetColor = "#ff0000"
+  headingColor = "#f4f4f5"
+  textColor = "#d4d4d8"
+  dotColor = "#0284c7"
+  enableGoogleFonts = true
+  googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
+  fontFamilyHeading = "Poppins"
+  fontFamilyParagraph = "Helvetica"
+  fontFamilyMonospace = "monospace"
+
+# markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = "Tags"
+    identifier = "tags"
+    weight = 2
+    url = "/tags/"
