@@ -1,9 +1,9 @@
 {
   "links": [
     {
-      "name": "twitter",
+      "name": "x",
       "url": "https://twitter.com/nickbozdev",
-      "image": "images/social/twitter.svg"
+      "image": "images/social/x.svg"
     },
     {
       "name": "github",
