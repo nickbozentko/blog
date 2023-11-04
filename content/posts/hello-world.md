@@ -1,6 +1,6 @@
 ---
 title: "Hello world"
-date: 2023-09-16T21:45:37-04:00
+date: 2023-11-04
 description: "Hey there! Welcome to my blog."
 image: images/blog-1.png
 tags: 
