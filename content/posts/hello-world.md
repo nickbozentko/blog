@@ -11,10 +11,11 @@ tags:
 
 👋🏼 Welcome to my blog.
 
-Yes, I generated the image above using AI.
-I burned through all of my free DALL·E 2 credits for the month in the process.
-I plan to do that for the majority of blogs.
-However, no, I did not use ChatGPT or other AI to write any of this (_maybe I should have_).
+The AI generated image above is how I would like you to imagine my point of view as I type this.
+Nice, right?
+I burned through all of my free DALL·E 2 credits to create it.
+I believe it was worthwhile to break up the wall of text below and certainly beats rummaging through stock images.
+However, no, I did not use AI to write any of this blog (_maybe I should have_).
 
 Let's get into it.
 
@@ -22,13 +23,30 @@ Let's get into it.
 
 I started this blog for a few reasons.
 
-- Its an outlet to write about my work.
-  - Something
-- Increase my writing skills.
-- Keep a log of my work.
-- Make another project.
-- Share my work and knowledge.
-- Get over imposter syndrome.
+### Enchance my technical writing skills
+
+I realize more and more that one of the most valuable traits of great software engineers is being able to effeciently convey your ideas to others in both verbal and written form.
+Like any other skill, this is something that is developed with time and practice.
+This is a great outlet to get that practice.
+
+### Keep a log of my projects and learnings
+
+After solving an interesting problem, learning something new, or forming a realization, jotting it down both for myself and to share is a practice that I would like to maintain.
+I believe it will be interesting to look back on at a later date.
+I hope that others may enjoy and learn from them as well.
+I believe blogging is a good medium for that purpose.
+
+### Force myself to release stuff
+
+Even as I sit here with this blog post mostly completed, I struggle to exit the revision stage and just publish it already.
+This is a pattern that I fiercely want to break.
+By writing here, I aim to get in the habit of labelling stuff "Done" even if it is not perfect in my mind - because it will never be.
+I will subscribe to the _[Cult of Done](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)_.
+
+### Another thing to tinker with
+
+I have been intrigued to build something quickly with one of these content-based static site tools such as Hugo or Astro.
+A blog site is the perfect candidate to try them out.
 
 ## What to expect
 
@@ -45,15 +63,10 @@ The blog itself might as well be one of those projects - and here I am writing a
 This site is built with [Hugo](https://gohugo.io/).
 The theme is [my fork](https://github.com/nickbozentko/hugo-winston-theme-nick) of [Hugo Winston](https://github.com/zerostaticthemes/hugo-winston-theme).
 
-Hugo helped me build this quickly.
-It's my first time playing with the framework.
-The hardest part was choosing a theme and and resisting the urge to build my own from scratch (_maybe one day_).
-
 ## Are you still here?
 
-If you made it this far, thank you!
-I hope to post content here that is compelling and illuminating.
+If you made it this far, thanks for reading!
+I hope to post content here that is compelling and engaging.
 Stop by regularly to find new posts.
-Upcoming, I'll set up a mailing list or RSS feed.
 
 Want more? Now!? [Follow me on 𝕏 / Twitter](https://twitter.com/nickbozdev).
